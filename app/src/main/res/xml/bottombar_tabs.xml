@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/tab_mycalendar"
+            icon="@drawable/selector_mycalendar_clicked"
+            inActiveColor="@color/grey"
+            activeColor="@color/black"
+            />
+        <tab
+            id="@+id/tab_sharedcalendar"
+            icon="@drawable/selector_sharecalendar_clicked"
+            inActiveColor="@color/grey"
+            activeColor="@color/black"
+             />
+        <tab
+            id="@+id/tab_addplan"
+            icon="@drawable/selector_add_clicked"
+            inActiveColor="@color/grey"
+            activeColor="@color/black"
+             />
+        <tab
+            id="@+id/tab_findfriends"
+            icon="@drawable/selector_addfriends_clicked"
+            inActiveColor="@color/grey"
+            activeColor="@color/black"
+             />
+        <tab
+            id="@+id/tab_favoriteplan"
+            icon="@drawable/selector_favorite_clicked"
+            inActiveColor="@color/grey"
+            activeColor="@color/black"
+            />
+
+
+
+    </tabs>
+</PreferenceScreen>

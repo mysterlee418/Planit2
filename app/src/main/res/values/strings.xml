@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planit</string>
+    <string name="spinner_prompt_colorpick">색상 선택</string>
+    <string name="spinner_prompt_sharepick">공유 설정</string>
+    <string name="spinner_prompt_setalarm">알람 설정</string>
+
+</resources>
