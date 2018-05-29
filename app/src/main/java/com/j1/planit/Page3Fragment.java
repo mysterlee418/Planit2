@@ -151,7 +151,7 @@ public class Page3Fragment extends Fragment {
 
                 title = editTitle.getText().toString();
                 details = editDetails.getText().toString();
-                date = date+time;
+                date = date+"/"+time;
 
                 if(title.length() == 0 || details.length()==0 || date == null || time == null){
                     return;
